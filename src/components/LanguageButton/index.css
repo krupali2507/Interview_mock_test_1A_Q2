@@ -1,0 +1,24 @@
+.language {
+  margin-right: 10px;
+}
+
+.active-btn {
+  padding: 5px;
+  border-radius: 5px;
+  color: #ffffff;
+  background-color: #db1c48;
+  border: 1px solid #db1c48;
+}
+
+.inActive-btn {
+  padding: 5px;
+  border-radius: 5px;
+  background-color: #ffffff;
+  color: #db1c48;
+  border: 1px solid #db1c48;
+}
+
+.image {
+  height: 200px;
+  width: 200px;
+}
